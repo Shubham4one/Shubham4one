@@ -87,6 +87,38 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 </p>
+<!-- ════════════ 📈 GITHUB STATS ════════════ -->
+
+<h4 align="center"> 📊 𝘎𝘪𝘵𝘏𝘶𝘣 𝘚𝘵𝘢𝘵𝘴 </h4>
+<div align="center">
+<!-- 🧠 Contributions Overview -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shubham4one&theme=tokyonight" width="100%" />
+
+<!-- 🎯 Language Metrics: Top langs & commits -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shubham4one&theme=tokyonight" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shubham4one&theme=tokyonight" width="48%" />
+
+<!-- 📈 GitHub Stats & Active Hours -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shubham4one&theme=tokyonight" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shubham4one&theme=tokyonight&utcOffset=6.5" width="48%" />
+
+</div> 
+
+<!-- ════════════ 👁 VISITOR COUNT ════════════ -->
+
+<h4 align="left">🔄 𝘝𝘪𝘴𝘪𝘵𝘰𝘳𝘴 𝘊𝘰𝘶𝘯𝘵</h4>
+<p align="left">
+    <img src="https://profile-counter.glitch.me/Shubham4one/count.svg" />
+</p>
+<!-- ════════════ ☕️ SUPPORT ME ════════════ -->
+
+<div align="left">
+  <h4>🎉 𝘓𝘪𝘬𝘦 𝘮𝘺 𝘞𝘰𝘳𝘬?</h4>
+  <a href="https://coff.ee/shubham4one" target="_blank" rel="noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-darkgreen?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Buy Me A Coffee" />
+  </a>
+</div>
+
 
 <!-- ════════════ 💬 RANDOM DEV QUOTE ════════════ -->
 
