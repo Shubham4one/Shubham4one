@@ -1,4 +1,3 @@
-<img align="center" alt="coding" width="1200" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
 
 ![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2FShubham4onebd0dc.png?alt=media)
 
@@ -103,8 +102,6 @@
 
 </div> 
 
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"/>
-
 
 <h4 align="left">🔄 𝘝𝘪𝘴𝘪𝘵𝘰𝘳𝘴 𝘊𝘰𝘶𝘯𝘵</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham4one&label=Profile%20views&color=0e75b6&style=flat" alt="shubham4one" /> </p>
@@ -121,10 +118,8 @@
   </a>
 </div>
 
-<img align="left" alt="coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"/>
-
 <h4>✍ 𝘙𝘢𝘯𝘥𝘰𝘮 𝘋𝘦𝘷 𝘘𝘶𝘰𝘵𝘦</h4>
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
     <div align="center">
 
-<img align="center" alt="coding" width="1200" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
+
